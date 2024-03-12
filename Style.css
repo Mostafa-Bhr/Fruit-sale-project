@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+background-color: black;
+
+}
+
+#apple{
+     
+    margin-top: 10px;
+    color: blue;
+    
+}
+
+label{
+
+margin-left: 40%;
+
+color: white;
+
+}
+
+#orange{
+
+    
+
+   margin-top: 25px;
+
+   color: blue;
+
+   
+
+   
+}
+button{
+
+margin-left: 42%;
+
+margin-top:30px;
+
+color: blue;
+
+background-color: #4964517d;
+
+width: 200px;
+
+}
+
+h2{
+
+color: azure;
+
+margin-top: 90px;
+
+padding-left: 220px;
+
+}
